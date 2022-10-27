@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Sazid Hasan Milon.
 ###### Mobile Application Developer
-- 👋 Hi, I’m @shmilon
-- 📫 How to reach me at shmilon.com/contact
+📫 How to reach me at shmilon.com/contact
 I am a Flutter Developer. I really love to convert creative ideas to application.
 
 Skills: DART / FLUTTER / PYTHON / HTML / CSS
@@ -11,12 +10,12 @@ Skills: DART / FLUTTER / PYTHON / HTML / CSS
 - 💬 Ask me about Dart & Flutter 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sadman-ichha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sadman-ichha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sadman_ichha)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shmilon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/shmilon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sazidhasanmilon)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadman-ichha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmilon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadman-ichha&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shmilon&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sadman-ichha)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shmilon)  
 
-![Profile views](https://gpvc.arturio.dev/sadman-ichha) 
+![Profile views](https://gpvc.arturio.dev/shmilon) 
