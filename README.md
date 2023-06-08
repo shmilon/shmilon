@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Sazid Hasan Milon.
 ###### Mobile Application Developer
 📫 How to reach me at shmilon.com/contact <br>
-💻 Giving Freelancing service at fiverr.com/shmilon
-I am a Flutter Developer. I really love to convert creative ideas to application.
+💻 Giving Freelancing service at fiverr.com/shmilon<br>
+I am a Flutter Developer. I really love to convert creative ideas to application.<br>
 
 Skills: PHP / JAVA /DART / FLUTTER / PYTHON / HTML / CSS
 
