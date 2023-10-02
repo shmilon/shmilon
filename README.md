@@ -19,4 +19,5 @@ Skills: PHP / JAVA /DART / FLUTTER / PYTHON / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shmilon)  
 
-![Profile views](https://gpvc.arturio.dev/shmilon) 
+# Python-projects
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=shmilon.Python-projects&left_text=Profile_Views)
