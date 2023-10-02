@@ -15,8 +15,11 @@ Skills: PHP / JAVA /DART / FLUTTER / PYTHON / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmilon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shmilon&show_icons=true)  
+ 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shmilon)  
 
+
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shmilon&show_icons=true)   | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shmilon) |
+| ------------- | ------------- |
 
