@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sazid Hasan Milon.
+### Hi there 👋 I'm Sazid Hasan Milon. ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=shmilon.Python-projects&left_text=Profile_Views)
 ###### Mobile Application Developer
 📫 How to reach me at shmilon.com/contact <br>
 💻 Giving Freelancing service at fiverr.com/shmilon<br>
@@ -19,5 +19,4 @@ Skills: PHP / JAVA /DART / FLUTTER / PYTHON / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shmilon)  
 
-# Python-projects
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=shmilon.Python-projects&left_text=Profile_Views)
+
