@@ -1,12 +1,13 @@
-<h1 align="center">Sazid Hasan Milon</h1>
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/shmilon/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>   
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B+;I'm+Sazid+Hasan+Milon;Open+source+enthusiast;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%92%AC"></div>
 
-<br>
- 
+
+
+<h1 align="center">Sazid Hasan Milon</h1>
+<div align="center"> 
+
+ ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=shmilon.Python-projects&left_text=Profile_Views) 
+ <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a> <!-- <img src="http://hits.dwyl.com/shmilon/awesome-github-profile-readme.svg" alt="Hits Badge"/> --><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>   
 
 <a href="https://github.com/shmilon/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shmilon/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/shmilon/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/shmilon/awesome-github-profile-readme" alt="Forks Badge"/></a>
@@ -18,7 +19,6 @@
 </div>
 
 
- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=shmilon.Python-projects&left_text=Profile_Views)
 ###### Mobile Application Developer
 📫 How to reach me at shmilon.com/contact <br>
 💻 Giving Freelancing service at fiverr.com/shmilon<br>
